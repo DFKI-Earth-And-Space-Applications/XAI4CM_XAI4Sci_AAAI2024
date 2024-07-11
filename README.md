@@ -3,12 +3,12 @@
 
 > by Hiba Najjar, Marlon Nuske and Andreas Dengel.
 
-> Accepted as a short paper at the **AAAI2024** workshop: ["*XAI4Sci: Explainable machine learning for sciences*"](https://xai4sci.github.io/).
+> Accepted as a short paper at the **AAAI2024** workshop: ["*XAI4Sci: Explainable machine learning for sciences*"](https://xai4sci.github.io/) and at **IGARSS2024**.
 
 ## Overview
 
 
-The paper presents a comprehensive framework guiding practitioners through the vast array of over a hundred \glspl{vi} documented in the literature. To validate our method on the crop mapping task, we trained multiple models using individual \glspl{vi} and combinations of two, and demonstrated their ability to outperform the model trained on all spectral bands. Beyond its application in crop type identification, our approach holds promise for broader applications in remote sensing such as forest health assessment, drought monitoring, soil moisture estimation and flood mapping.
+The paper presents a comprehensive framework guiding practitioners through the vast array of over a hundred spectral indices documented in the literature. To validate our method on the crop mapping task, we trained multiple models using individual indices and combinations of two, and demonstrated their ability to outperform the model trained on all spectral bands. Beyond its application in crop type identification, our approach holds promise for broader applications in remote sensing such as forest health assessment, drought monitoring, soil moisture estimation and flood mapping.
 
 
 ## Dependencies
